@@ -1,4 +1,4 @@
-Indie Developer, trying to evolve everytime.
+### Indie Developer, trying to evolve everytime.
 Creating a game, and developing a discord bot.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewKanvas\&layout=donut)
