@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @NewKanvas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewKanvas\&layout=donut)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewKanvas\&layout=donut)](https://github.com/NewKanvas/github-readme-stats)
 <!---
 Mudar para aprecer os status privados
 --->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
 <!---
