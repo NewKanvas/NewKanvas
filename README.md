@@ -5,11 +5,12 @@ I'm an indie developer who's constantly striving to evolve. I'm currently workin
 ### GitHub Stats
 
 <div align="left">
-  <img width=280 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NewKanvas&langs_count=8&layout=donut&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-  <img width=412 src="https://github-readme-stats-salesp07.vercel.app/api?username=NewKanvas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+  <img width=280 src="https://github-readme-stats-git-master-newkanvas-projects.vercel.app/api/top-langs/?username=NewKanvas&langs_count=8&layout=donut&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width=412 src="https://github-readme-stats-git-master-newkanvas-projects.vercel.app/api?username=NewKanvas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
   <br/>
   <img width=370 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NewKanvas&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
 </div>
+
 
 #
 <div align="center">
