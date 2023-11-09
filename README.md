@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an indie developer with a passion for game development and bot creation. I'm currently in the development of a game and a Discord bot.
+I'm an indie developer with a passion for game development. I'm currently in the development of a game and a Discord bot and learning SQL.
 
 ## GitHub Stats
 
