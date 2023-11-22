@@ -22,7 +22,7 @@ I'm an indie developer with a passion for game development. I'm currently in the
 ## Tech Stack
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,javascript,github,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,blender,github,vscode,git" />
 </div>
 
 ## Connect with Me
