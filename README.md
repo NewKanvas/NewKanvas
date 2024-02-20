@@ -1,6 +1,8 @@
-## About Me
+# Howdy!
 
-I'm an indie developer with a passion for game development. I'm currently in the development of a game and a Discord bot and learning SQL.
+I'm an indie developer with a passion for game development. Currently, I'm working on the development of a Discord bot while dedicating time every day to studying code.
+
+I'm currently enrolled in **Data Analytics** courses by **[Resilia](https://www.resilia.com.br/)** and code languages courses by **[Alura](https://www.alura.com.br/)**. I thrive in joining new communities and collaborating in groups to bring projects to life.
 
 ## GitHub Stats
 
@@ -18,28 +20,43 @@ I'm an indie developer with a passion for game development. I'm currently in the
   </a>
 </div>
 
+---
 
-## Tech Stack
+### Skills:
+
+Back-end Development | Data Analysis | Creative Illustration
+
+### Tools:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,javascript,blender,github,vscode,git" />
+    <img width="70%" src="https://skillicons.dev/icons?i=python,javascript,blender,github,vscode,git,mysql," />
 </div>
 
-## Connect with Me
+- 🌱 Currently learning PowerBi & Tableau
+- 📊 I like charts
+- 🎨 I create art in my free time
+- 📚 Lifelong learner, always exploring new topics
+- 💡 Passionate about problem-solving and innovation
 
-Feel free to reach out and connect with me on the following platforms:
+
+
+---
 
 <div align="center">
+  <a href="https://github.com/NewKanvas">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
+    alt='github' height='40'/>
+  </a>
   <a href="mailto:cassioramaca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img height="40" src="https://cdn.simpleicons.org/gmail/white.svg" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/cassiosramos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/cassiosramos">
+    <img height="40" src="https://cdn.simpleicons.org/linkedin/white.svg" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/NewKanvas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/NewKanvas">
+    <img height="40" src="https://cdn.simpleicons.org/twitter/white.svg" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/newkanvas/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/newkanvas/">
+    <img height="40" src="https://cdn.simpleicons.org/instagram/white.svg" alt="Instagram"/>
   </a>
 </div>
