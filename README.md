@@ -53,10 +53,4 @@ Back-end Development | Data Analysis | Creative Illustration
   <a href="https://www.linkedin.com/in/cassiosramos">
     <img height="40" src="https://cdn.simpleicons.org/linkedin/white.svg" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/NewKanvas">
-    <img height="40" src="https://cdn.simpleicons.org/twitter/white.svg" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/newkanvas/">
-    <img height="40" src="https://cdn.simpleicons.org/instagram/white.svg" alt="Instagram"/>
-  </a>
 </div>
